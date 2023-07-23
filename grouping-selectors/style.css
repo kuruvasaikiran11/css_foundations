@@ -1,0 +1,14 @@
+button{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.click{
+    background-color: blue;
+    color: white;
+}
+
+.no-click{
+    background-color: green;
+    color: white;
+}
